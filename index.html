@@ -1,10 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robinzon cafe</title>
+    <link href="css/style.css" rel="stylesheet">
+    <link href="./css/jquery.fullPage.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-
+<div class="menu" id="myMenu">
+    <ul>
+        <li data-menuanchor="firstPage" class="active"><a href="#section-1">First section</a></li>
+        <li data-menuanchor="secondPage"><a href="#section-2">Second section</a></li>
+        <li data-menuanchor="thirdPage"><a href="#section-3">Third section</a></li>
+        <li data-menuanchor="fourthPage"><a href="#section-4">Fourth section</a></li>
+    </ul>
+</div>
+<div id="fullpage">
+    <div class="section" id="section-1">
+        <div class="section-1__block">
+            <p class="section-1__content">Robinzon</p>
+        </div>
+    </div>
+    <div class="section" id="section-2"></div>
+    <div class="section" id="section-3"></div>
+    <div class="section" id="section-4"></div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="./js/jquery.fullPage.js" type="text/javascript"></script>
+<script src="./js/fullPageController.js" type="text/javascript"></script>
 </body>
 </html>
