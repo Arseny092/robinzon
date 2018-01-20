@@ -402,12 +402,15 @@ template {
 [hidden] {
   display: none;
 }
+.left {
+  color: white;
+}
 #section-1 {
-  background-image: url("/img/IMG_1616.jpg");
+  background-image: url("/img/red-bar-black-white-red.jpg");
   background-size: cover;
 }
 #section-2 {
-  background-image: url("/img/pineda-grill-01.jpg");
+  background-image: url("/img/BristolsBurgersheader.jpg");
   background-size: cover;
 }
 #section-3 {
@@ -422,7 +425,73 @@ template {
   margin: 0 auto;
 }
 .section-1__content {
-  font-size: 110px;
-  color: white;
+  font-size: 80px;
+  color: ghostwhite;
   text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.section-1__about {
+  color: ghostwhite;
+  text-align: center;
+  font-size: 18px;
+}
+.section-1__warn {
+  color: ghostwhite;
+  text-align: center;
+  margin-top: 350px;
+  text-transform: uppercase;
+}
+@media (min-width: 620px) {
+  .section-1__content {
+    font-size: 150px;
+  }
+  .section-1__about {
+    font-size: 30px;
+  }
+}
+.section-2__block {
+  margin: 0 auto;
+  margin-bottom: 150px;
+  padding-bottom: 30px;
+  width: 350px;
+  background-color: black;
+  border-radius: 30px;
+}
+.section-2__header {
+  color: ghostwhite;
+  text-align: center;
+  padding-top: 20px;
+}
+.section-2__content {
+  margin: 0 auto;
+  color: ghostwhite;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  width: 300px;
+}
+.section-2__btn {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  width: 150px;
+  text-decoration: none;
+  background-color: white;
+  color: ghostwhite;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 2px solid ghostwhite;
+}
+.section-2__btn:hover {
+  background-color: ghostwhite;
+  color: black;
+}
+@media (min-width: 620px) {
+  .section-2__block {
+    margin-left: 50px;
+  }
 }
