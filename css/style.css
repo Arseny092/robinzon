@@ -414,11 +414,15 @@ template {
   background-size: cover;
 }
 #section-3 {
-  background-image: url("/img/brb1.jpg");
+  background-image: url("/img/IMG_7585.jpg");
   background-size: cover;
 }
 #section-4 {
-  background-image: url("/img/images.jpeg");
+  background-image: url("/img/kahns-catering-ima-deerzinc-21-jessicastrickland.jpg");
+  background-size: cover;
+}
+#section-5 {
+  background-image: url("/img/old-telephone-wooden-background-black-white-54406533.jpg");
   background-size: cover;
 }
 .section-1__block {
@@ -494,4 +498,153 @@ template {
   .section-2__block {
     margin-left: 50px;
   }
+}
+.section-3__block {
+  margin: 0 auto;
+  margin-bottom: 150px;
+  padding-bottom: 30px;
+  width: 350px;
+  background-color: black;
+  border-radius: 30px;
+}
+.section-3__header {
+  color: ghostwhite;
+  text-align: center;
+  padding-top: 20px;
+}
+.section-3__content {
+  margin: 0 auto;
+  color: ghostwhite;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  width: 300px;
+}
+.section-3__btn {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  width: 150px;
+  text-decoration: none;
+  background-color: white;
+  color: ghostwhite;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 2px solid ghostwhite;
+}
+.section-3__btn:hover {
+  background-color: ghostwhite;
+  color: black;
+}
+@media (min-width: 620px) {
+  .section-3__block {
+    margin-right: 50px;
+  }
+}
+.section-4__block {
+  margin: 0 auto;
+  margin-bottom: 150px;
+  padding-bottom: 30px;
+  width: 350px;
+  background-color: black;
+  border-radius: 30px;
+}
+.section-4__header {
+  color: ghostwhite;
+  text-align: center;
+  padding-top: 20px;
+}
+.section-4__content {
+  margin: 0 auto;
+  color: ghostwhite;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  width: 300px;
+}
+.section-4__btn {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  width: 150px;
+  text-decoration: none;
+  background-color: white;
+  color: ghostwhite;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 2px solid ghostwhite;
+}
+.section-4__btn:hover {
+  background-color: ghostwhite;
+  color: black;
+}
+@media (min-width: 620px) {
+  .section-4__block {
+    margin-left: 50px;
+  }
+}
+.section-5__block {
+  margin: 0 auto;
+  margin-bottom: 150px;
+  padding-bottom: 30px;
+  width: 550px;
+  background-color: black;
+  border-radius: 30px;
+}
+.section-5__header {
+  color: ghostwhite;
+  text-align: center;
+  padding-top: 20px;
+}
+.hotel {
+  background-image: url(/img/food_head.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  padding-top: 50px;
+}
+.section-hotel__block {
+  margin: 0 auto;
+  padding-bottom: 30px;
+  width: 550px;
+  background-color: black;
+  border-radius: 30px;
+}
+.section-hotel__header {
+  color: ghostwhite;
+  text-align: center;
+  padding-top: 20px;
+}
+.section-hotel__content {
+  margin: 0 auto;
+  color: ghostwhite;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  width: 300px;
+}
+.section-hotel__btn {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  width: 150px;
+  text-decoration: none;
+  background-color: white;
+  color: ghostwhite;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 2px solid ghostwhite;
+}
+.section-hotel__btn:hover {
+  background-color: ghostwhite;
+  color: black;
 }
