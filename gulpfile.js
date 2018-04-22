@@ -16,13 +16,13 @@ gulp.task("style", function() {
                 "last 2 versions"
             ]})
         ]))
-        .pipe(gulp.dest("css"))
+        .pipe(gulp.dest("./public/css"))
         .pipe(server.stream());
 });
 
 gulp.task("serve", ["style"], function() {
     server.init({
-        server: ".",
+        server: "./public",
         notify: false,
         open: true,
         cors: true,

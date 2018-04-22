@@ -402,27 +402,31 @@ template {
 [hidden] {
   display: none;
 }
-.left {
-  color: white;
+.menu {
+  background-image: url(/img/bbb.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
 }
 #section-1 {
-  background-image: url("/img/red-bar-black-white-red.jpg");
+  background-image: url("/img/section1.jpg");
   background-size: cover;
 }
 #section-2 {
-  background-image: url("/img/BristolsBurgersheader.jpg");
+  background-image: url("/img/section2.jpg");
   background-size: cover;
 }
 #section-3 {
-  background-image: url("/img/IMG_7585.jpg");
+  background-image: url("/img/section3.jpg");
   background-size: cover;
 }
 #section-4 {
-  background-image: url("/img/kahns-catering-ima-deerzinc-21-jessicastrickland.jpg");
+  background-image: url("/img/section4.jpg");
   background-size: cover;
 }
 #section-5 {
-  background-image: url("/img/old-telephone-wooden-background-black-white-54406533.jpg");
+  background-image: url("/img/section5.jpg");
   background-size: cover;
 }
 .section-1__block {
@@ -473,6 +477,7 @@ template {
   padding-left: 10px;
   padding-bottom: 30px;
   width: 300px;
+  text-align: justify;
 }
 .section-2__btn {
   display: block;
@@ -518,6 +523,7 @@ template {
   padding-left: 10px;
   padding-bottom: 30px;
   width: 300px;
+  text-align: justify;
 }
 .section-3__btn {
   display: block;
@@ -563,6 +569,7 @@ template {
   padding-left: 10px;
   padding-bottom: 30px;
   width: 300px;
+  text-align: justify;
 }
 .section-4__btn {
   display: block;
@@ -593,7 +600,7 @@ template {
   margin: 0 auto;
   margin-bottom: 150px;
   padding-bottom: 30px;
-  width: 550px;
+  width: 400px;
   background-color: black;
   border-radius: 30px;
 }
@@ -602,49 +609,21 @@ template {
   text-align: center;
   padding-top: 20px;
 }
-.hotel {
-  background-image: url(/img/food_head.jpg);
-  background-size: cover;
-  height: 100vh;
-  width: 100%;
-  padding-top: 50px;
-}
-.section-hotel__block {
-  margin: 0 auto;
-  padding-bottom: 30px;
-  width: 550px;
-  background-color: black;
-  border-radius: 30px;
-}
-.section-hotel__header {
-  color: ghostwhite;
-  text-align: center;
-  padding-top: 20px;
-}
-.section-hotel__content {
+.section-5__content {
   margin: 0 auto;
   color: ghostwhite;
   padding-left: 10px;
-  padding-bottom: 30px;
-  width: 300px;
+  width: 200px;
+  text-align: justify;
 }
-.section-hotel__btn {
+.section-5__tel {
   display: block;
-  margin: auto;
-  margin-top: 20px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  text-align: center;
-  width: 150px;
-  text-decoration: none;
-  background-color: white;
-  color: ghostwhite;
-  text-transform: uppercase;
-  border-radius: 20px;
-  background-color: transparent;
-  border: 2px solid ghostwhite;
 }
-.section-hotel__btn:hover {
-  background-color: ghostwhite;
-  color: black;
+.section-5__content a {
+  display: block;
+  text-decoration: none;
+  margin: 0 auto;
+  margin-top: 10px;
+  color: ghostwhite;
+  padding-left: 16%;
 }

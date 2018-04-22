@@ -6,7 +6,7 @@ $(document).ready(function() {
         //navigationPosition: 'right'
     });
     $('#scrollWarn').slideUp({
-        duration: 2500,
+        duration: 3500,
         easing: 'linear'
     });
 });
