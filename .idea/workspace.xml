@@ -2,60 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12af04a3-3acf-499b-953f-f805e69bcf3e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/jquery.fullPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hotel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BristolsBurgersheader.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/IMG_7585.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/food_head.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/kahns-catering-ima-deerzinc-21-jessicastrickland.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/old-telephone-wooden-background-black-white-54406533.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/people-1285291_960_720.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/red-bar-black-white-red.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/fullPageController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.fullPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/hotel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/hotel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/BristolsBurgersheader.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/IMG_7585.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/food_head.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/kahns-catering-ima-deerzinc-21-jessicastrickland.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/old-telephone-wooden-background-black-white-54406533.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/people-1285291_960_720.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/red-bar-black-white-red.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/fullpage.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/hotel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/menu.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/section-1.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/section-2.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/section-3.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/section-4.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/section-5.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/style.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/less/var.less" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proclife" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/fullpage.less" afterPath="$PROJECT_DIR$/less/fullpage.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/menu.less" afterPath="$PROJECT_DIR$/less/menu.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/section-2.less" afterPath="$PROJECT_DIR$/less/section-2.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/section-3.less" afterPath="$PROJECT_DIR$/less/section-3.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/section-4.less" afterPath="$PROJECT_DIR$/less/section-4.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/section-5.less" afterPath="$PROJECT_DIR$/less/section-5.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/fullPageController.js" afterPath="$PROJECT_DIR$/public/js/fullPageController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/menu.html" afterPath="$PROJECT_DIR$/public/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,8 +33,8 @@
       <file leaf-file-name="section-2.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/section-2.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="488">
+              <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -92,18 +43,38 @@
       <file leaf-file-name="section-3.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/section-3.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="285">
               <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section-4.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="section-4.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/section-4.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="15">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Proclife" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proclife">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -112,8 +83,8 @@
       <file leaf-file-name="section-5.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/section-5.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="495">
+              <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -122,8 +93,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+            <state relative-caret-position="151">
+              <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -133,17 +104,7 @@
         <entry file="file://$PROJECT_DIR$/less/menu.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less/style.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -153,20 +114,8 @@
         <entry file="file://$PROJECT_DIR$/public/js/fullPageController.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.fullPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/jquery.fullPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -189,7 +138,6 @@
         <option value="$PROJECT_DIR$/less/var.less" />
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/less/normalize.less" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/js/fullPageController.js" />
         <option value="$PROJECT_DIR$/less/section-1.less" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -209,6 +157,8 @@
         <option value="$PROJECT_DIR$/less/section-3.less" />
         <option value="$PROJECT_DIR$/less/section-4.less" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/Proclife" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/less/section-5.less" />
       </list>
     </option>
@@ -230,9 +180,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="y" value="35" />
-    <option name="width" value="685" />
+    <option name="x" value="540" />
+    <option name="y" value="30" />
+    <option name="width" value="1091" />
     <option name="height" value="751" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -261,11 +211,6 @@
             <path>
               <item name="robinzon" type="b2602c69:ProjectViewProjectNode" />
               <item name="robinzon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="robinzon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robinzon" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="robinzon" type="b2602c69:ProjectViewProjectNode" />
@@ -314,18 +259,18 @@
       <workItem from="1516313541254" duration="100000" />
       <workItem from="1516393158807" duration="4228000" />
       <workItem from="1516400011107" duration="1242000" />
-      <workItem from="1524302782722" duration="11686000" />
+      <workItem from="1524302782722" duration="12818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17585000" />
+    <option name="totallyTimeSpent" value="18717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="35" width="685" height="751" extended-state="0" />
+    <frame x="540" y="30" width="1091" height="751" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.459854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25756186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -355,14 +300,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/section-1.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -594,14 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/menu.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -615,47 +544,47 @@
         <state relative-caret-position="240">
           <caret line="437" column="21" lean-forward="true" selection-start-line="437" selection-start-column="21" selection-end-line="437" selection-end-column="21" />
           <folding>
-            <marker date="1524404441682" expanded="true" signature="8171:8246" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8258:8333" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8345:8377" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8472:8507" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8519:8594" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8613:8634" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8655:8761" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8780:8845" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8863:8959" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="8986:9086" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9010:9037" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9058:9084" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9105:9240" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9260:9327" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9348:9475" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9492:9820" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9843:9894" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9921:9973" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9943:9971" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="9992:10127" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10147:10214" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10235:10338" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10356:10684" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10707:10758" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10785:10838" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10807:10836" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="10857:10992" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11012:11079" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11247:11250" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11267:11595" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11618:11669" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11696:11748" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11718:11746" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11767:11902" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11922:11989" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="11928:12055" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="12078:12189" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="12213:12280" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="12305:12409" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="12430:12758" ph="{...}" />
-            <marker date="1524404441682" expanded="true" signature="12785:12836" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8171:8246" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8258:8333" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8345:8377" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8472:8507" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8519:8594" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8613:8634" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8655:8761" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8780:8845" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8863:8959" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="8986:9086" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9010:9037" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9058:9084" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9105:9240" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9260:9327" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9348:9475" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9492:9820" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9843:9894" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9921:9973" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9943:9971" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="9992:10127" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10147:10214" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10235:10338" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10356:10684" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10707:10758" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10785:10838" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10807:10836" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="10857:10992" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11012:11079" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11247:11250" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11267:11595" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11618:11669" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11696:11748" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11718:11746" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11767:11902" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11922:11989" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="11928:12055" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="12078:12189" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="12213:12280" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="12305:12409" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="12430:12758" ph="{...}" />
+            <marker date="1524409932774" expanded="true" signature="12785:12836" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -737,7 +666,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -745,7 +674,31 @@
     <entry file="file://$PROJECT_DIR$/public/js/fullPageController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/menu.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proclife">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -758,50 +711,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/section-3.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/menu.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/section-2.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="488">
+          <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/less/section-3.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/section-5.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/section-4.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="15">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/section-5.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>
