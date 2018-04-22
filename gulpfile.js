@@ -4,6 +4,8 @@ var gulp = require("gulp");
 var less = require("gulp-less");
 var plumber = require("gulp-plumber");
 var postcss = require("gulp-postcss");
+var mqpacker = require("css-mqpacker");
+var minify = require("gulp-csso");
 var autoprefixer = require("autoprefixer");
 var server = require("browser-sync").create();
 
@@ -14,8 +16,13 @@ gulp.task("style", function() {
         .pipe(postcss([
             autoprefixer({browsers: [
                 "last 2 versions"
-            ]})
+            ]
+            }),
+            mqpacker({
+                sort: true
+            })
         ]))
+        .pipe(minify())
         .pipe(gulp.dest("./public/css"))
         .pipe(server.stream());
 });
